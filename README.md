@@ -34,7 +34,7 @@ Este projeto foi desenvolvido para praticar conceitos importantes do JavaScript:
 
 ## 🌐 Acesse o projeto
 
-🔗 https://SEU-LINK-AQUI
+🔗  https://marvinmarvin2089-source.github.io/projeto-Sanduba/
 
 ## 📂 Como executar o projeto
 
