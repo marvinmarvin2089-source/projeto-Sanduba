@@ -30,12 +30,22 @@ Este projeto foi desenvolvido para praticar conceitos importantes do JavaScript:
 
 ## 📷 Demonstração
 
-![Preview do projeto](./img/preview.png)
+![Preview do projeto](./img/cardápio.png)
 
 ## 🌐 Acesse o projeto
 
-🔗 https://SEU-LINK-AQUI
+🔗  https://marvinmarvin2089-source.github.io/projeto-Sanduba/
 
 ## 📂 Como executar o projeto
 
 1. Clone este repositório
+   
+2. Abra a pasta do projeto
+
+3. Abra o arquivo `index.html` no navegador
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Marcus Vinícius**
+
+🔗 GitHub: https://github.com/marvinmarvin2089-source
