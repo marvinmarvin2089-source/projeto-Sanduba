@@ -39,3 +39,13 @@ Este projeto foi desenvolvido para praticar conceitos importantes do JavaScript:
 ## 📂 Como executar o projeto
 
 1. Clone este repositório
+   
+2. Abra a pasta do projeto
+
+3. Abra o arquivo `index.html` no navegador
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Marcus Vinícius**
+
+🔗 GitHub: https://github.com/marvinmarvin2089-source
