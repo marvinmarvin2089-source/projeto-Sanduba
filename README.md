@@ -30,7 +30,7 @@ Este projeto foi desenvolvido para praticar conceitos importantes do JavaScript:
 
 ## 📷 Demonstração
 
-![Preview do projeto](./img/cardápio.png)
+![Preview do projeto](./img/preview.png)
 
 ## 🌐 Acesse o projeto
 
